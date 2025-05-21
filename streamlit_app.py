@@ -4,4 +4,4 @@ st.title("🔥 Welkom Anjay🔥")
 st.write(
     "Hayuk mabar bous yahahahaa"
 )
-st.image("IMG-20250520-WA0045.jpg", width=200) 
+st.image("IMG20250520WA0045.jpg", width=200) 
